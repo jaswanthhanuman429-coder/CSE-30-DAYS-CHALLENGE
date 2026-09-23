@@ -1,1 +1,1 @@
-
+This is my first code ,this is my first experience writing the code, currently learning the c language basics i have written the code in ubuntu terminal my program is all about the five subjects marks of an student i have taken the five subjects and the total marks the subjects are the english, telugu, physics, maths, computer the student got marks 80,75,90,85,70 i have calculated the total marks, average marks, percentage the total marks=400, average= 80, percentage= %80 i have calculated like these with three different values and this is my code
